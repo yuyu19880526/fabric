@@ -1,5 +1,7 @@
 # fabric
 
+![avatar](http://p0.qhimg.com/t010dd592c78f01d363.png)
+
 ## Project setup
 ```
 npm install
